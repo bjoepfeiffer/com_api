@@ -1,0 +1,1 @@
+Will there be a site side of this component? We are thinking just admin for now.
